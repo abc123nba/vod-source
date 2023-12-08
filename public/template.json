@@ -5,7 +5,13 @@
         "note": "需要代理"
     },
     {
-        "name": "极速资源",
-        "api": "https://jszyapi.com/api.php/provide/vod/"
+        "name": "快看资源",
+        "api": "https://kuaikan-api.com/api.php/provide/vod/",
+        "note": "1080P 4M 无法搜索"
+    },
+      {
+        "name": "ymck",
+        "api": "https://ymck.pro/api.php/provide/vod/",
+        "note": "片中有广告"
     }
 ]
